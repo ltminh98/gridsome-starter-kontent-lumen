@@ -6,6 +6,8 @@
 
 
 module.exports = {
+	siteUrl: 'https://ltminh98.github.io',
+  pathPrefix: '/89mikeling',
   siteName: 'Gridsome',
   runtimeCompiler: true,
   plugins: [
