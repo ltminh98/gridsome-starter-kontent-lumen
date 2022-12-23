@@ -1,4 +1,5 @@
-{
+{  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist",
   "name": "gridsome-starter-kontent-lumen",
   "private": true,
   "scripts": {
